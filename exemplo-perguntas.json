@@ -1,0 +1,17 @@
+[
+  {
+    "question": "Qual é a capital do Brasil?",
+    "options": ["Rio de Janeiro", "São Paulo", "Brasília", "Salvador"],
+    "answer": "Brasília"
+  },
+  {
+    "question": "Qual componente Vue é usado para renderizar listas?",
+    "options": ["v-if", "v-for", "v-model", "v-bind"],
+    "answer": "v-for"
+  },
+  {
+    "question": "Quanto é 2 + 2?",
+    "options": ["3", "4", "5", "6"],
+    "answer": "4"
+  }
+]
